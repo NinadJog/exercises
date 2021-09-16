@@ -4,11 +4,11 @@ This repo provides an overview of the various other repos in this account that c
 
 The other repos contain code related to three types of solutions: mini-projects, techniques (how-to's), and challenge problems.
 
-_Mini-Projects_ are just that: small projects that I either did on my own or typed the solution from a book to learn the programming language or its web framework.
+**Mini-Projects** are just that: small projects that I either did on my own or typed the solution from a book to learn the programming language or its web framework.
 
-The _Techniques_ section contains code for various techniques used in the real world, such as connecting to a database from Haskell, making an HTTP request using Haskell, etc. It's more of a How-To section. It will eventually contain a mixture of code that I wrote on my own and code that I copied from books, although currently it is full of the latter.
+The **Techniques** section contains code for various techniques used in the real world, such as connecting to a database from Haskell, making an HTTP request using Haskell, etc. It's more of a How-To section. It will eventually contain a mixture of code that I wrote on my own and code that I copied from books, although currently it is full of the latter.
 
-The _Challenge Problems_ section contains the most original code -- code I wrote by myself. I have solved some of the challenge problems in more than one language. Solving a challenge problem requires coming up with some kind of an algorithm and implementing it in code.
+The **Challenge Problems** section contains the most original code -- code I wrote by myself. I have solved some of the challenge problems in more than one language. Solving a challenge problem requires coming up with some kind of an algorithm and implementing it in code.
 
 ## Mini-Projects
 
@@ -18,9 +18,14 @@ The _Challenge Problems_ section contains the most original code -- code I wrote
 
 ## Techniques (How-To's)
 
+I wrote the code in this section mainly for my own edification.
+
 | # | Problem | Code
 | --|--------------------|--------
 | 1 | Connect to a Relational Database | [Haskell](https://github.com/NinadJog/db-lesson)
+| 2 | Make HTTP Requests (private repo) | [Haskell](https://github.com/NinadJog/http-lesson)
+| 3 | Read a JSON File | [Haskell](https://github.com/NinadJog/json-lesson)
+| 4 | Desugaring For Comprehensions | [Scala 2](https://github.com/NinadJog/forcomp)
 
 ## Challenge Problems (Algorithms)
 
@@ -32,3 +37,13 @@ Here are the links to problem descriptions and their solutions in various langua
 | 2 | Pigeonhole |[Haskell](https://github.com/NinadJog/pigeonhole-haskell), [Scala 2](https://github.com/NinadJog/pigeonhole-scala)|
 | 3 | [Artifact Search](https://github.com/NinadJog/haskell-artifact-search) | [Haskell](https://github.com/NinadJog/haskell-artifact-search), [Java](https://github.com/NinadJog/artifact-search-java)|
 | 4 | [Split Odd-Even](https://github.com/NinadJog/haskell-split-odd-even) | [Haskell](https://github.com/NinadJog/haskell-split-odd-even) |
+| 5 | Rotational Cipher | [Elixir](https://github.com/NinadJog/elixir_rotational_cipher)
+| 6 | Nucleotide | [Elixir](https://github.com/NinadJog/elixir_nucleotide)
+
+## Exploratory
+
+The following repos contain code that is exploratory in nature, rather than being a complete solution
+
+| # | Problem | Code
+| --|--------------------|--------
+| 1 | Home Rentals | [Daml](https://github.com/NinadJog/test-rental-2)
