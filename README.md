@@ -18,12 +18,13 @@ The **Challenge Problems** section contains the most original code -- code I wro
 
 ## Techniques (How-To's)
 
-I wrote the code in this section mainly for my own edification.
+I wrote the code in this section mainly to learn these techniques.
 
 | # | Problem | Code
 | --|--------------------|--------
 | 1 | Connect to a Relational Database | [Haskell](https://github.com/NinadJog/db-lesson)
 | 2 | Make HTTP Requests (private repo) | [Haskell](https://github.com/NinadJog/http-lesson)
+| 3 | REST Client and JSON Parsing | [Scala 3](https://github.com/NinadJog/get-weather)
 | 3 | Read a JSON File | [Haskell](https://github.com/NinadJog/json-lesson)
 | 4 | Desugaring For Comprehensions | [Scala 2](https://github.com/NinadJog/forcomp)
 
